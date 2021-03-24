@@ -1,3 +1,5 @@
+This is a fork of orchis theme.
+
 # Orchis theme
 
 Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
